@@ -23,8 +23,8 @@ It demonstrates an end-to-end machine learning pipeline on the **AllLife Bank da
 - Balanced accuracy and ROC-AUC provided more reliable measures than raw accuracy for imbalanced data.
 - Over-pruning led to high recall but excessive false positives, highlighting the importance of balance in model tuning. 
 
-## Run the Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGM-AIML/ML-Modeling/blob/main/ML_Project_Full_Code_Notebook_Christopher_Gonzalez_Mejias.ipynb)
+## Vew Modeling
+[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/CGM-AIML/ML-Modeling/blob/main/ML_Project_Full_Code_Notebook_Christopher_Gonzalez_Mejias.ipynb)
 
 ## Verification
 This project is also published in my **Great Learning ePortfolio (UT Austin – McCombs School of Business, AI & ML Program):**  
